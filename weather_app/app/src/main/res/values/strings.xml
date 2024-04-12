@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">weather_app</string>
+    <string name="hello">Hello</string>
+    <string name="we_guarantee_your">We guarantee your</string>
+    <string name="comfort_and_safety">comfort_and_safety</string>
+    <string name="we_guarantee_your_health">/we_guarantee_your_health</string>
+    <string name="while_travelling_well">while travelling well</string>
+    <string name="get_started">Get Started</string>
+    <string name="charlotte">Charlotte</string>
+    <string name="todo">TODO</string>
+    <string name="claim">Claim</string>
+    <string name="Claim">Claim</string>
+    <string name="Popular">Popular</string>
+    <string name="See_More">See More</string>
+    <string name="product_1">Product 1</string>
+    <string name="product_2" />
+    <string name="product_3">Product 3</string>
+    <string name="product_4">Product 4</string>
+    <string name="product_5">Product 5</string>
+    <string name="product_6">Product 6</string>
+    <string name="product_7">Product 7</string>
+    <string name="title_activity_home_decoration">home_decoration</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_home">home</string>
+</resources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:background="@drawable/rectangle"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="130dp">
+        <RelativeLayout
+            android:layout_width="500dp"
+            android:layout_height="500dp"
+            android:background="@drawable/oval1"
+            android:layout_centerHorizontal="true"
+            />
+        <RelativeLayout
+            android:layout_width="230dp"
+            android:layout_height="230dp"
+            android:background="@drawable/oval2"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            />
+        <RelativeLayout
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:background="@drawable/oval3"
+            android:layout_centerHorizontal="true"
+         android:layout_centerInParent="true"
+            />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/we_guarantee_your"
+        android:textSize="30sp"
+        android:textColor="@color/black"
+        android:layout_marginTop="540sp"
+        android:layout_marginStart="85sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="comfort and safety"
+        android:textSize="30sp"
+        android:textColor="#9176ff"
+        android:layout_marginTop="570sp"
+        android:layout_marginStart="85sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="we guarantee your health"
+        android:textSize="18sp"
+        android:textColor="#c0c0c0"
+        android:textStyle="bold"
+        android:layout_marginTop="660sp"
+        android:layout_marginStart="100sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/while_travelling_well"
+        android:textSize="18sp"
+        android:textColor="#c0c0c0"
+        android:textStyle="bold"
+        android:layout_marginTop="680sp"
+        android:layout_marginStart="130sp"/>
+
+    <Button
+        android:id="@+id/Move"
+        android:layout_width="200sp"
+        android:layout_height="70sp"
+        android:backgroundTint="#ff8c00"
+        android:layout_marginTop="750sp"
+        android:layout_marginStart="110sp"
+        android:text="@string/get_started"
+        android:textSize="25sp"
+        />
+
+
+</RelativeLayout>
